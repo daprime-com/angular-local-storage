@@ -1,0 +1,12 @@
+{
+  "name": "angular-local-storage",
+  "version": "0.1",
+  "homepage": "https://github.com/daprime-com/angular-local-storage",
+  "authors": [
+    "Igor Murujev <igor@daprime.com>"
+  ],
+  "description": "Angular",
+  "keywords": [
+    "angular", "localstorage"
+  ]
+}
